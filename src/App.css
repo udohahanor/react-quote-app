@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  background-color: #282c34;
+  list-style: none;
+  text-decoration: none;
+  scroll-behavior: smooth;
+  font-family: 'Montserrat';
+  font-size: 13pt;
+}

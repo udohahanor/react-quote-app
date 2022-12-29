@@ -1,0 +1,28 @@
+.container
+{
+    display: flex;
+    color: white;
+    text-decoration: none;
+    justify-content: space-between;
+    padding: 16px;
+}
+
+.logo
+{
+    color: aqua;
+    font-size: 20pt;
+    cursor: pointer;
+}
+
+.navmenu
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.navmenu li
+{
+    font-size: 14px;
+    display: inline-block;
+    margin: 0px 16px;
+}
