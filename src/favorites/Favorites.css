@@ -1,0 +1,11 @@
+.favorites-container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: beige;
+    text-transform: uppercase;
+    background-color: transparent;
+    width: 100%;
+    height: 512px;
+}
